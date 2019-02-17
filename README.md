@@ -22,7 +22,7 @@ Information about the subfolders:
 
 - GA contains the custom mutation used for the genetic algorithm in two examples in the paper.
 
-- MatrixExponential contains a modified version of the Expokit to output the solutions of a linear dynamical system at multiple time points.
+- MatrixExponential contains a modified version of the Expokit (https://www.maths.uq.edu.au/expokit/) to output the solutions of a linear dynamical system at multiple time points.
 
 - Examples contains three subfolders with codes to reproduce the examples in the manuscript and a 'Toy_problem' subfolder.
 
