@@ -24,6 +24,6 @@ Information about the subfolders:
 
 - MatrixExponential contains a modified version of the Expokit (https://www.maths.uq.edu.au/expokit/) to output the solutions of a linear dynamical system at multiple time points.
 
-- Examples contains three subfolders with codes to reproduce the examples in the manuscript and a 'Toy_problem' subfolder.
+- Examples contains three subfolders with codes to reproduce the examples in the manuscript and a 'Toy_problem' subfolder. Note that the 'spatial_gene_expression' example will output very large matrices (up to 37 GB). Please make sure your machine has sufficient memory before running the codes in the 'spatial_gene_expression' subfolder.
 
 Questions should be addressed to Brian Munsky (munsky@colostate.edu) and Huy Vo (huydvo@colostate.edu).
