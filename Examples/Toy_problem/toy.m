@@ -1,5 +1,3 @@
-% This script uses a greedy algorithm to build the POD basis over a range
-% of parameters
 clear;
 %%
 rng(0, 'twister');
