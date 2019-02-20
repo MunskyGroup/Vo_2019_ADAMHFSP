@@ -1,6 +1,6 @@
 This folder contains all files necessary to reproduce the numerical results in the manuscript, 
 "Bayesian estimation of stochastic gene expression using multifidelity models" 
-Huy D. Vo, Zachary R. Fox, Ania Baetica, Brian E. Munsky.
+Huy D. Vo, Zachary R. Fox, Ania A. Baetica, Brian E. Munsky.
 
 These examples have been tested using MATLAB 2018b. Before running the examples, please run the script 'setup.m' provided in the main folder to add the necessary functions and objects to MATLAB's search path.
 
